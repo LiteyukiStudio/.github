@@ -14,15 +14,15 @@
 <div align="center">
   <h1>Members 👤 成员</h1>
   <p align="center">
-    <img src="https://github.com/snowykami.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Asankilp.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/EillesWan.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/ElapsingDreams.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/HornCopper.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/LuoChenXil.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Miracle200606.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/MoeSnowyFox.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Nanaloveyuki.png" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/yuhan2680.png" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/snowykami.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/Asankilp.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/EillesWan.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/ElapsingDreams.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/HornCopper.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/LuoChenXil.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/Miracle200606.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/MoeSnowyFox.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/Nanaloveyuki.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/yuhan2680.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
   </p>
 </div>
