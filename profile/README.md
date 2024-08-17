@@ -7,9 +7,9 @@
 </div>
 
 - 📚 | 雪萤工坊轻雪工作室 Liteyuki Studio of Snowyfirefly Workshop
-- 🎓 | 业务广泛：Minecraft开发，视频制作，轻雪数据中心运维
+- 🎓 | 承接雪萤工坊部分业务，目前是并行状态
 - 🌐 | 一群有相同爱好者的人
-- 🛠️ | Back-end, Front-end, Microservices, Network Engineering, SRE, Game Develop, affman, IoT
+- 🛠️ | 前后端开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization)深度合作
 
 <div align="center">
   <h1>Members 👤 成员</h1>
