@@ -9,7 +9,8 @@
 - 📚 | 雪萤工坊轻雪工作室 Liteyuki Studio of Snowyfirefly Workshop
 - 🎓 | 承接雪萤工坊部分业务，目前是并行状态
 - 🌐 | 一群有相同爱好者的人
-- 🛠️ | 前后端开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization)深度合作
+- 🛠️ | 前后端开发，云原生，微服务开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization)深度合作
+
 
 <div align="center">
   <h1>Members 👤 成员</h1>
@@ -25,4 +26,10 @@
     <img src="https://github.com/Nanaloveyuki.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
     <img src="https://github.com/yuhan2680.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
   </p>
+
+  <h1>Contacts 📧 联络</h1>
+  <a href="https://liteyuki.icu">Our Homepage/探索我们的主页 - liteyuki.icu</a><br>
+  <a href="contact@liteyuki.icu">Email/电邮 - contact@liteyuki.icu</a><br>
+  <a href="https://git.liteyuki.icu">Git Workspace/工作区 - git.liteyuki.icu</a><br>
+  <a href="https://lab.liteyuki.icu">Liteyuki Lab/社区 - lab.liteyuki.icu</a><br>
 </div>
