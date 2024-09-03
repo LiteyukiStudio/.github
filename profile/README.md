@@ -28,8 +28,8 @@
   </p>
 
   <h1>Contacts 📧 联络</h1>
-  <a href="https://liteyuki.icu">Our Homepage/探索我们的主页 - liteyuki.icu</a><br>
-  <a href="contact@liteyuki.icu">Email/电邮 - contact@liteyuki.icu</a><br>
-  <a href="https://git.liteyuki.icu">Git Workspace/工作区 - git.liteyuki.icu</a><br>
-  <a href="https://lab.liteyuki.icu">Liteyuki Lab/社区 - lab.liteyuki.icu</a><br>
+  <a href="https://liteyuki.icu">Our Homepage/探索我们的主页 - liteyuki.icu</a><br><br>
+  <a href="contact@liteyuki.icu">Email/电邮 - contact@liteyuki.icu</a><br><br>
+  <a href="https://git.liteyuki.icu">Git Workspace/工作区 - git.liteyuki.icu</a><br><br>
+  <a href="https://lab.liteyuki.icu">Liteyuki Lab/社区 - lab.liteyuki.icu</a><br><br>
 </div>
