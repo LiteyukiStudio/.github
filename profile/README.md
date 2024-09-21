@@ -26,6 +26,7 @@
     <img src="https://github.com/MoeSnowyFox.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
     <img src="https://github.com/Nanaloveyuki.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
     <img src="https://github.com/yuhan2680.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
+    <img src="https://github.com/synodriver.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
   </p>
 
   <h1>Contacts 📧 联络</h1>
