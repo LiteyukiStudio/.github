@@ -73,7 +73,7 @@
 
 - Our Homepage/探索我们的主页 - [liteyuki.icu](https://liteyuki.icu)
 
-- Email/电邮 - [contact@liteyuki.icu](contact@liteyuki.icu)
+- Email/电邮 - [contact@liteyuki.icu](support@liteyuki.icu)
 
 - Git Workspace/工作区 - [git.liteyuki.icu](https://git.liteyuki.icu)
 
