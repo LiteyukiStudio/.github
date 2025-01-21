@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://cdn.liteyuki.icu/static/img/liteyuki_icon_640.png" width="180" height="180" alt="LiteyukiLogo" />
-  <img src="https://cdn.liteyuki.icu/static/svg/lylogo-full.svg" height="180" alt="LiteyukiLogoKawaii" />
+  <img src="https://cdn.liteyuki.icu/static/img/liteyuki_icon_640.pn" width="180" height="180" alt="LiteyukiLogo" />
+  <img src="https://cdn.liteyuki.icu/static/svg/lylogo-full.sv" height="180" alt="LiteyukiLogoKawaii" />
 </div>
 <div align="center">
-  <img src="https://cdn.liteyuki.icu/static/svg/typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
+  <img src="https://cdn.liteyuki.icu/static/svg/typing.sv" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
 </div>
 
 - 📚 | 雪萤工坊轻雪工作室 Liteyuki Studio of Snowyfirefly Workshop
