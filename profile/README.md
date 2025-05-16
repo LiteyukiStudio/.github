@@ -5,13 +5,20 @@
   <img src="https://cdn.liteyuki.icu/static/svg/typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
 </div>
 
+<div align="center">
+
+## Introduction 👋 介绍
+</div>
+
 - 🌐 | 一群有相同爱好者的开发者
+- 🌱 | 目前正在学习和开发一些有趣的项目，部分项目在GitHub上开源
+- 💬 | 主要偏向于全栈应用，云原生应用的开发，并运营了一些SaaS和云服务
+- 📫 | 你可以通过我们的主页或电邮与我们联系
 
 
 <div align="center">
 
-  # Members 👤 成员
-
+## Members 👤 成员
 </div>
 
 <div align="center">
@@ -59,11 +66,9 @@
   </a>
 </div>
 
-
 <div align="center">
 
-  # Contacts 📧 联络
-
+## Contacts 📧 联络
 </div>
 
 - Our Homepage/探索我们的主页 - [liteyuki.icu](https://liteyuki.icu)
