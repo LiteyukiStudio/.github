@@ -1,15 +1,12 @@
 <div align="center">
   <img src="https://cdn.liteyuki.icu/static/img/liteyuki_icon_640.png" width="180" height="180" alt="LiteyukiLogo" />
-  <img src="https://cdn.liteyuki.icu/static/svg/lylogo-full.svg" height="180" alt="LiteyukiLogoKawaii" />
+  <img src="https://cdn.liteyuki.icu/logos/studio.svg" height="180" alt="LiteyukiLogoKawaii" />
 </div>
 <div align="center">
   <img src="https://cdn.liteyuki.icu/static/svg/typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
 </div>
 
-- 📚 | 雪萤工坊轻雪工作室 Liteyuki Studio of Snowyfirefly Workshop
-- 🎓 | 承接雪萤工坊部分业务，目前是并行状态
-- 🌐 | 一群有相同爱好者的人
-- 🛠️ | 前后端开发，云原生，微服务开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization) 深度合作
+- 🌐 | 一群有相同爱好者的开发者
 
 
 <div align="center">
