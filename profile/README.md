@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://cdn.liteyuki.icu/logos/studio.svg" height="200" alt="LiteyukiLogo" />
+  <img src="https://cdn.liteyuki.org/logos/studio.svg" height="200" alt="LiteyukiLogo" />
 </div>
 <div align="center">
-  <img src="https://cdn.liteyuki.icu/static/svg/typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
+  <img src="https://cdn.liteyuki.org/static/svg/typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
 </div>
 
 <div align="center">
