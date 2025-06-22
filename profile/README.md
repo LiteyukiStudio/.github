@@ -71,10 +71,10 @@
 ## Contacts 📧 联络
 </div>
 
-- Our Homepage/探索我们的主页 - [liteyuki.icu](https://liteyuki.org)
+- Our Homepage/探索我们的主页 - [liteyuki.org](https://liteyuki.org)
 
 - Email/电邮 - [contact@liteyuki.org](mailto:contact@liteyuki.org)
 
 - Gitea Workspace/工作区 - [git.liteyuki.org](https://git.liteyuki.org)
 
-- Liteyuki Lab/社区 - [lab.liteyuki.icu](https://lab.liteyuki.icu)
+- Liteyuki Lab/社区 - [lab.liteyuki.org](https://lab.liteyuki.org)
