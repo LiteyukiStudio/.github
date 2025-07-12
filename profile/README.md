@@ -22,47 +22,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/snowykami">
-    <img src="https://github.com/snowykami.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/liteyuki-flow">
-    <img src="https://github.com/liteyuki-flow.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/Asankilp">
-    <img src="https://github.com/Asankilp.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/ChenXu233">
-    <img src="https://github.com/ChenXu233.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/EillesWan">
-    <img src="https://github.com/EillesWan.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/ElapsingDreams">
-    <img src="https://github.com/ElapsingDreams.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/HornCopper">
-    <img src="https://github.com/HornCopper.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/LuoChenXil">
-    <img src="https://github.com/LuoChenXil.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/Miracle200606">
-    <img src="https://github.com/Miracle200606.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/MoeSnowyFox">
-    <img src="https://github.com/MoeSnowyFox.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/Nanaloveyuki">
-    <img src="https://github.com/Nanaloveyuki.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/synodriver">
-    <img src="https://github.com/synodriver.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/Twisuki">
-    <img src="https://github.com/Twisuki.png" height="80px" alt="icon" />
-  </a>
-  <a href="https://github.com/yuhan2680">
-    <img src="https://github-api.liteyuki.org/org/members/liteyukistudio/image" height="80px" alt="icon" />
+  <a href="https://liteyuki.org">
+    <img src="https://github-api.liteyuki.org/org/members/liteyukistudio/image" alt="icon" />
   </a>
 </div>
 
