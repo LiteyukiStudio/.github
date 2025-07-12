@@ -62,7 +62,7 @@
     <img src="https://github.com/Twisuki.png" height="80px" alt="icon" />
   </a>
   <a href="https://github.com/yuhan2680">
-    <img src="https://github.com/yuhan2680.png" height="80px" alt="icon" />
+    <img src="https://github-api.liteyuki.org/org/members/liteyukistudio/image" height="80px" alt="icon" />
   </a>
 </div>
 
