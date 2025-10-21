@@ -11,10 +11,9 @@
 </div>
 
 - 🌐 | 一群有相同爱好者的开发者
-- 🌱 | 目前正在学习和开发一些有趣的项目，部分项目在GitHub上开源
-- 💬 | 主要偏向于全栈应用，云原生应用的开发，并运营了一些SaaS和云服务
-- 📫 | 你可以通过我们的主页或电邮与我们联系
-
+- 🌱 | 正在学习和开发一些有趣的项目，部分项目在GitHub上开源
+- 💬 | 主要偏向于全栈应用，云原生应用的开发，并运营了一些服务
+- 📫 | 可以通过我们的主页或电邮与我们联系
 
 <div align="center">
 
@@ -39,3 +38,4 @@
 - Gitea Workspace/工作区 - [git.liteyuki.org](https://git.liteyuki.org)
 
 - Liteyuki Lab/社区 - [lab.liteyuki.org](https://lab.liteyuki.org)
+
